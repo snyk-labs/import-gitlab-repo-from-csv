@@ -28,7 +28,7 @@ export SNYK_TOKEN=TYPE-SNYK-TOKEN-HERE
 export GITLAB_TOKEN=TYPE-GITLAB-TOKEN-HERE
 export CSV_FILE_PATH=FULL-PATH-TO-CSV-File
 export SNYK_LOG_PATH=FULL-PATH-TO-ROOT-DIRECTORY
-git clone https://github.com/snyk-labs/generate-orgdata-gitlab-groups.git
+git clone https://github.com/snyk-labs/import-gitlab-repo-from-csv.git
 pip install -r requirements.txt
 python3 index.py SNYK_GROUP_ID
 ```
