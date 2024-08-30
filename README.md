@@ -6,7 +6,7 @@ This script will search your GitLab groups for any matching Snyk organization ba
 
 Python version 3.9.5
 
-Download [snyk-api-import](https://github.com/snyk/snyk-api-import/releases), make the file executable, and place the file in the root directory of this repo.
+Download [snyk-api-import](https://github.com/snyk/snyk-api-import/releases), make the file executable, and place the file in the root directory of the cloned repo.
 
 ## Environment Variables
 
